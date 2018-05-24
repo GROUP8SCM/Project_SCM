@@ -1,0 +1,4 @@
+﻿  Building Custom Rule C:/Users/ticki/Documents/GitHub/Project_Hello_World/CMakeLists.txt
+  CMake does not need to re-run because C:/Users/ticki/Documents/GitHub/Project_Hello_World/CMakeFiles/generate.stamp is up-to-date.
+  main.c
+  Project_Hello_World.vcxproj -> C:\Users\ticki\Documents\GitHub\Project_Hello_World\Debug\Project_Hello_World.exe
